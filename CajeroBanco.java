@@ -26,7 +26,7 @@ public class CajeroBanco {
                     do {
                         if (saldo != 0) {
                             System.out.println(
-                                    "\nBienvenido Andy García García \n¿Que desea realizar? \n1.Consultar saldo\n2.Retirar saldo\n3.Histórico de Movimientos\n4.Salir");
+                                    "\nHola Andy García García \n¿Que desea realizar? \n1.Consultar saldo\n2.Retirar saldo\n3.Histórico de Movimientos\n4.Salir");
                         } else {
                             System.out.println(
                                     "\n¿Que desea realizar? \n1.Consultar saldo\n2.Retirar saldo\n3.Histórico de Movimientos\n4.Salir");

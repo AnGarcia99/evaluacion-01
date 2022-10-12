@@ -19,7 +19,7 @@ while i < 3:
             try:
                 if saldo != 0:
                     print()
-                    print("\t.:Bienvenido Andy García García:.")
+                    print("\t.:Hola Andy García García:.")
                     print("¿Que desea realizar?")
                 else: 
                     print()
